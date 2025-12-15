@@ -18,4 +18,5 @@ readability
 <a href="https://drive.google.com/file/d/1_cXHAlhH1b3eN7aV8ufvoOWLh2sKgVJe/view?usp=drive_link, https://drive.google.com/file/d/1R3KLuMiJAMj4inj4YRNC0OGqGUqKUeHW/view?usp=drive_link, https://drive.google.com/file/d/15041WI3TXWH4IgiHh1d2kYnfgV-U5Aqn/view?usp=drive_link, https://drive.google.com/file/d/1wx4LJy-DUNSeBaxjzu518uYY6HIS5bB2/view?usp=drive_link, https://drive.google.com/file/d/15bPIrzWsLeRoOceXP_t3EFVq2NkwqD_9/view?usp=drive_link"></a>
 ## Screenshot
 ![WhatsApp Image 2025-12-15 at 8 29 50 PM](https://github.com/user-attachments/assets/d368734d-9728-4eb5-a0c5-c667bcf965bc)
-
+## Conclusion
+The dashboard provides a quick, holistic view of Imperial Hotel’s performance, highlighting key revenue drivers, occupancy trends, and customer behavior. It helps identify growth opportunities, optimize strategy, and support informed business decisions at a glance.
